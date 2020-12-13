@@ -125,6 +125,7 @@ class Joueur extends ElementHtml{
         //on aumente son score
         this.incrementeScore(10);
         this._rafraichitHTML();
+        audio.zikdefondstop();
         audio.fausseNote();
         partie.demarreNouveauJeu();
     }

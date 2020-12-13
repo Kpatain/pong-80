@@ -73,6 +73,7 @@ class Partie {
             function () {
                 me.enPause = false;
                 balle.reinitialiser();
+                audio.zikdefond();
             },
             3000
         );

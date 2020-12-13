@@ -27,19 +27,16 @@
     <list default="true" id="cfb8edd4-3248-4cdb-8dba-8c90b5de0281" name="Default Changelist" comment="re plein de conneries">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/Audio.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Audio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/do.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/fa.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/la.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/mi.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/pong.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/pong1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/pong2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/pong3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/pong4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/re.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/si.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/sol.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/texture-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Joueur.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Joueur.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Partie.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Partie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound/disappointment.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/balle.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/balle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/gradin.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/gradin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/joueur1.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/joueur1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/joueur2.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/joueur2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/terrain.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/terrain.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/texture-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/texture-background.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +71,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sound" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -104,6 +101,8 @@
       <workItem from="1605418068367" duration="11657000" />
       <workItem from="1605723552953" duration="1067000" />
       <workItem from="1605724707085" duration="20609000" />
+      <workItem from="1607429769257" duration="1439000" />
+      <workItem from="1607854886121" duration="2055000" />
     </task>
     <task id="LOCAL-00001" summary="chemin vers un code plus élégant">
       <created>1605418227308</created>

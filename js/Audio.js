@@ -8,7 +8,8 @@ class Audio{
         createjs.Sound.registerSound("sound/ping2.wav", "pong2");
         createjs.Sound.registerSound("sound/ping3.wav", "pong3");
         createjs.Sound.registerSound("sound/ping4.wav", "pong4");
-        createjs.Sound.registerSound("sound/disappointment.wav", "disappointment");
+        createjs.Sound.registerSound("sound/pong2.wav", "zikdefond");
+        createjs.Sound.registerSound("sound/disappointment2.wav", "disappointment");
     }
     /**
      * Joue une note aléatoirepa
@@ -23,8 +24,16 @@ class Audio{
         ];
         let note =notes[Math.floor(Math.random() * notes.length)];
         createjs.Sound.play(note);
-
     }
+
+    zikdefond(){
+        createjs.Sound.play("zikdefond");
+    }
+
+    zikdefondstop(){
+        createjs.Sound.stop("zikdefond");
+    }
+
     /**
      * Perdu
      */
