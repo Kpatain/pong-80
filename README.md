@@ -1,2 +1,2 @@
 # Encore un pong
-https://kpatain.github.io/pong-wimbledon/.
+https://kpatain.github.io/pong-80/
