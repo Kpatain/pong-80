@@ -26,8 +26,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cfb8edd4-3248-4cdb-8dba-8c90b5de0281" name="Default Changelist" comment="re plein de conneries">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/wimbledon.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/wimbledon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Perso.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Perso.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,7 @@
       <workItem from="1607854886121" duration="2651000" />
       <workItem from="1607895134729" duration="39000" />
       <workItem from="1608034855725" duration="8000" />
-      <workItem from="1608034889290" duration="911000" />
+      <workItem from="1608034889290" duration="2359000" />
     </task>
     <task id="LOCAL-00001" summary="chemin vers un code plus élégant">
       <created>1605418227308</created>

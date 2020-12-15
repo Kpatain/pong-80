@@ -3,15 +3,15 @@ class Perso extends ElementHtml{
         super($html);
         this.$bulle=$html.find(".bulle");
         this.mots=[
-            "Bof"
-            ,"On s'emmerde un peu"
-            ,"Fait chaud"
+            "Je préfère apashe"
+            ,"C'est un bug ou la musique est comme ça ?"
+            ,"Ah mais c'est Bigflo et Oli"
             ,"..."
-            ,"Rolland Garros c'est mieux"
-            ,"zyva l'autre avec sa raquette"
-            ,"sont pas doués"
-            ,"Ya koi ce soir à la télé?"
-            ,"vive moi!"
+            ,"Is that a Tron reference"
+            ,"Allé Guy-Manuel de Homem-Christo ! C'est quoi ce nom en vrai ?"
+            ,"nul Germain"
+            ,"J'adore le drop"
+            ,"Not verry faster and stronger à ce que je vois..."
         ];
     }
     parle(blabla){
