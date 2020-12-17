@@ -51,6 +51,7 @@ body{
     background-image: url('./skins/wimbledon/terrain.png');
     background-size: cover;
     background-position: center;
+    box-shadow: 20px 20px 8px rgba(0,0,0,0.5);
 }
 .terrain > *{
     position: absolute;
