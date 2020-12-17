@@ -19,7 +19,7 @@ class Perso extends ElementHtml{
         this.$bulle.text(blabla);
         setTimeout(function(){
             ici.$bulle.text("");
-        },1500);
+        },2500);
     }
 
     /**
