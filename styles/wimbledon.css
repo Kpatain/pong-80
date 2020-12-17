@@ -103,7 +103,7 @@ body{
 }
 
 .nom,.score{
-    mix-blend-mode: hard-light;
+    /*mix-blend-mode: hard-light;*/
     font-size: 5vmin;
     font-weight: 700;
     color: #8000c9;
